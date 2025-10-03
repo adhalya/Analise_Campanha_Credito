@@ -48,7 +48,7 @@ O teste de McNemar foi aplicado para avaliar se houve mudanças significativas n
 
 ## 📝 Conclusões
 
-A análise forneceu insights valiosos sobre o impacto da campanha de crédito, permitindo:
+A análise permitiu:
 
 * Avaliar mudanças significativas nas respostas dos clientes.
 * Demonstrar habilidades em **tratamento de dados categóricos**, **análise estatística** e **visualização de dados**.
